@@ -1,0 +1,54 @@
+.body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family:'Merriweather', serif;
+}
+.h1{
+  color: #66bfbf;
+  font-size: 5.625rem;
+  margin: 50px auto auto;
+  font-family:'Sacramento', cursive;
+}
+h2{
+  color: #66BFBF;
+font-family:'Merriweather', sans-serif;
+font-size: 2.5rem;
+font-weight: normal;
+}
+h3{
+  color: #11999E;
+  font-family:'Merriweather', sans-serif;
+  padding-bottom: 10px;
+}
+.top-container {
+  background-color: #EAF9F5;
+  position: relative;
+  padding-top: 100%;
+}
+.middle-container {
+  margin: 100px 0;
+}
+.bottom-container {
+
+}
+.Skill-row {
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.pro {
+  text-decoration: underline;
+}
+.top-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px
+}
+.plane-img{
+  width: 25%;
+}
+.college-img{
+  width: 25%;
+}
